@@ -2,7 +2,9 @@ I'm a .NET developer working full time and contribute to open source projects as
 
 Although primarily a backend dev I have completed several full stack contracts on the side with a React frontend and .NET backend.
 
-📫 You can contact me on Discord **Tub5#0745** or by email at tub5DoesTech@gmail.com
+📫 **Contact Me**
+- Discord: **Tub5#0745** 
+- Email: **tub5DoesTech@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tub5)](https://github.com/anuraghazra/github-readme-stats)
 
