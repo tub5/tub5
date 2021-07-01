@@ -2,6 +2,10 @@ I'm a .NET developer working full time and contribute to open source projects as
 
 Although primarily a backend dev I have completed several full stack contracts on the side with a React frontend and .NET backend.
 
+**Likes:**
+- Avid London Irish rugby fan :rugby_football: (someone has to be)
+- A cold beer on the weekend :beer:
+
 📫 **Contact Me**
 - Discord: **Tub5#0745** 
 - Email: **tub5DoesTech@gmail.com**
